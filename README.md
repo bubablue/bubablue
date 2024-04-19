@@ -82,3 +82,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/bubablue/bubablue/output/snake.svg" alt="Snake animation" />
+
+###
