@@ -1,9 +1,5 @@
 ###
 
-<h1 align="left">@bubablue</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
